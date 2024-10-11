@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/6169e7b6-ac18-4e28-8534-bd677907af33
 
 
 
-`Here's a quick rundown of HTML5 and CSS3, presented in key points:
+<!-- `Here's a quick rundown of HTML5 and CSS3, presented in key points:
 
 1. HTML Basics
 HTML: Stands for HyperText Markup Language. 
@@ -64,4 +64,4 @@ Responsive Design: Ensure your site looks good on all devices.
 
 10. Additional Resources
 MDN Web Docs: Comprehensive resource for web documentation and learning. 🚀`
-
+ -->
